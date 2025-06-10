@@ -1,0 +1,11 @@
+{
+  "foundryUrl": "https://northslope.palantirfoundry.com",
+  "site": {
+    "application": "ri.third-party-applications.main.application.793abd4e-dfc2-4cc5-871e-2cc5869e6eb9",
+    "directory": "./dist",
+    "autoVersion": {
+      "type": "git-describe",
+      "tagPrefix": ""
+    }
+  }
+}
